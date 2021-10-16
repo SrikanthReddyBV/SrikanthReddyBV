@@ -1,8 +1,9 @@
+<!--
 ### Hi, I'm Srikanth :wave:
 - I'm an aspiring Full Stack Web Developer
 - 🌱 Currently learning MERN stack at Masai School
 - 📫 How to reach me: [Twitter](https://twitter.com/SrikanthReddyBV)   [LinkedIn](https://www.linkedin.com/in/bvsr) 
-    
+   --> 
 <!--
 **SrikanthReddyBV/SrikanthReddyBV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
