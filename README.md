@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <div align="center">Hi, :wave: I'm Srikanth, an aspiring full-stack developer.</div>  
+### Hi, :wave: I'm Srikanth
   
 
 - 🔭 I'm an aspiring Full Stack Web Developer
